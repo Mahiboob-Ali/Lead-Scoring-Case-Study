@@ -20,7 +20,7 @@ An education company named X Education sells online courses to industry professi
 
 ## Details of files given
 
-+ Lead Score Case Study Mahiboob Ali.ipynb : The python file showing coding and data analysis
++ Lead Score Case Study Mahiboob Ali & Niraj Kumar.ipynb : The python file showing coding and data analysis
 + Assignment Subjective Questions.pdf : Some subjective questions answered
 + Lead Score Case Study.pdf : Final Presentation
 + Leads.csv : Data worked on
