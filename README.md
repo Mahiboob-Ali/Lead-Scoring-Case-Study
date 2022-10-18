@@ -6,7 +6,7 @@ An education company named X Education sells online courses to industry professi
 
 ## Steps Followed
 
-Reading Data
++ Reading Data
 Cleaning Data
 EDA
 Creating Dummy
